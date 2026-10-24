@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-insights",
+  "packageVersion": "1.32.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-insights",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-insights",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Resolve documented network reachability from a synthetic topology",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T15:06:16.998589+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "be2dd58d535c2045de839646a362975bed04b9e4b6cc92a4ff0df2f9089aabd5",
+    "manifestSha256": "19da85dcdd7dc556ba6e0fb65fc1089df57e6f1977a2c20d4bb26c9b07b94c85"
+  },
+  "validationFiles": {
+    "src/index.mjs": "be2dd58d535c2045de839646a362975bed04b9e4b6cc92a4ff0df2f9089aabd5"
+  }
+}
